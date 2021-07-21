@@ -3,11 +3,11 @@ Convert speech to text Convert text to speech using [IBM watson](https://cloud.i
 ![](https://i.imgur.com/DWKASYO.jpg)
 
 ## Installation
-
-   `pip install pipwin`
-   `pip3 install pyaudio`
-   `pip install ibm_watson`
-
+ ```python
+   pip install pipwin
+   pip3 install pyaudio
+   pip install ibm_watson
+ ```
 ## Speech to Text
 * change In speech.cfg file apikey and region 
  ```python
